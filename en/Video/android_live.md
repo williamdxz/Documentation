@@ -76,7 +76,7 @@ Downloaded files include the libs folder and the sample folder. The following ta
 
 2. Add the libs folder according to the storage directory preset in step 1.
 
-3. Add `sourceSets`. In the `build.gradle` file, set the the same storage directory as the libs folder.
+3. Add `sourceSets`. In the `build.gradle` file, set the same storage directory as the libs folder.
 
     ```
     android {
