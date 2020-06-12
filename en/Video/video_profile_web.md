@@ -84,7 +84,7 @@ localStream.setVideoProfile("480p_3");
 
 ## Recommended video profiles
 
-Video profiles vary from case to case. For example, in a one-to-one online class, the video windows of the teacher and student are both large, which requires higher resolutions, frame rates, and bitrates. While in a one-to-four online class, the video windows of the teacher and students are smaller, so lower resolutions, frame rates, and bitrates are used to maintan the bandwidth.
+Video profiles vary from case to case. For example, in a one-to-one online class, the video windows of the teacher and student are both large, which requires higher resolutions, frame rates, and bitrates. While in a one-to-four online class, the video windows of the teacher and students are smaller, so lower resolutions, frame rates, and bitrates are used to maintain the bandwidth.
 
 We recommend the following profiles for different scenarios:
 
