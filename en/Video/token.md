@@ -24,7 +24,7 @@ We have two types of dynamic keys: Channel Key and Token. Different versions of 
 | Gaming SDK   | 2.2.0 or later               | Earlier than 2.2.0        | `getSdkVersion`          |
 
 >-   If you use an Agora SDK that supports the Channel Key, see [Channel Keys](../../en/null/channel_key.md).
->-   If your wish to upgrade your SDK to a version that supports Token, see [Token Migration Guide](../../en/Agora%20Platform/token_migration.md).
+>-   If you wish to upgrade your SDK to a version that supports Token, see [Token Migration Guide](../../en/Agora%20Platform/token_migration.md).
 >-   For the Agora Signaling SDK, see [Signaling Security Keys](../../en/Agora%20Platform/key_signaling.md).
 >-   For the Agora RTM SDK, see [Use Security Keys](https://docs.agora.io/en/Video/%3Chttps://docs-preview.agoralab.co/en/Real-time-Messaging/RTM_key?platform=All%20Platforms%3E).
 
