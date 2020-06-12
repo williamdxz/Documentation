@@ -52,7 +52,7 @@ The following diagram shows the working principles of the Agora cloud proxy.
 
  <div class="alert note">These IP addresses and ports are for testing purposes only. In a production environment, apply for the dedicated IP addresses and ports.</div>
 
-5. Enable the cloud proxy by calling the `SetParameters("{\"rtc.enable_proxy\":true}");` method. After succesfully enabled the cloud proxy, the SDK uses the configuration of  `SetParameters("{\"rtc.proxy_server\":[1, \"ap-proxy.agora.io\", 0]}");` by default, and you don't need to call `SetParameters` again.
+5. Enable the cloud proxy by calling the `SetParameters("{\"rtc.enable_proxy\":true}");` method. After successfully enabled the cloud proxy, the SDK uses the configuration of  `SetParameters("{\"rtc.proxy_server\":[1, \"ap-proxy.agora.io\", 0]}");` by default, and you don't need to call `SetParameters` again.
 6. If the default cloud proxy server cannot meet your requirements, call the `SetParameters("{\"rtc.proxy_server\":[proxy_type, \"ip or dns\", port]}");` method to configure the cloud proxy server. See details in the following table:
  
 | `proxy_type`                                                 | `ip or dns`                                         | `port`                        |
