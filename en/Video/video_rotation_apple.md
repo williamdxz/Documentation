@@ -17,7 +17,7 @@ Video rotation involves the video capturer and the video player, where:
 - The video capturer captures the video and outputs the video information, that is, the relative position of the video and the status bar.
 - The video player renders the received video and rotates the video according to the rotation information.
 
-To avoid issues such as video scaling and scropping caused by video rotation, the Agora SDK provides a `orientationMode` parameter in the `setVideoEncoderConfiguration` method. You can use this parameter to set the video orientation mode according to your scenario to get the video you want.
+To avoid issues such as video scaling and cropping caused by video rotation, the Agora SDK provides a `orientationMode` parameter in the `setVideoEncoderConfiguration` method. You can use this parameter to set the video orientation mode according to your scenario to get the video you want.
 
 ## Implementation
 
