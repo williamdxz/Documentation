@@ -109,4 +109,4 @@ Implement the following whiteboard functions in your project:
 
 ## Open-source demo project
 
-Agora provides an open-source demo for [One-to-one Clasroom](https://github.com/AgoraIO-Usecase/eEducation) on GitHub to download as a source code reference.
+Agora provides an open-source demo for [One-to-one Classroom](https://github.com/AgoraIO-Usecase/eEducation) on GitHub to download as a source code reference.
