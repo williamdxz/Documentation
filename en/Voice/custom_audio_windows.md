@@ -8,7 +8,7 @@ updatedAt: Tue Mar 10 2020 02:51:38 GMT+0800 (CST)
 # Custom Audio Source and Renderer
 ## Introduction
 
-Before reading this article, you need to undersand two concepts: audio source and audio sink. Audio source is where audio frames come from, such as a microphone and a recorder. Audio sink is where audio frames go, such as a speaker and a earpiece.
+Before reading this article, you need to understand two concepts: audio source and audio sink. Audio source is where audio frames come from, such as a microphone and a recorder. Audio sink is where audio frames go, such as a speaker and a earpiece.
 
 By default, the Agora SDK uses default audio and video modules for capturing and rendering in real-time communications. 
 
