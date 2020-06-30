@@ -102,7 +102,7 @@ rtcEngine.pullPlaybackAudioFrame(
 
 ## Sample code
 
-Agora provides an open-source [Customer recoder](https://github.com/AgoraIO/Advanced-Audio/tree/dev/3.1.0_android/Advanced-Audio-Android/sample-custom-recorder/) demo project on GitHub. You can download it for source code reference.
+Agora provides an open-source [Customer recorder](https://github.com/AgoraIO/Advanced-Audio/tree/dev/3.1.0_android/Advanced-Audio-Android/sample-custom-recorder/) demo project on GitHub. You can download it for source code reference.
 
 ## Consideration
 
