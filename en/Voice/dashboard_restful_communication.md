@@ -711,7 +711,7 @@ https://api.agora.io/dev/v1/kicking-rule?appid=4855xxxxxxxxxxxxxxxxxxxxxxxxeae2
 
 ### Updates the rule time (PUT)
 
-Updates the time duration when the rule taks effect.
+Updates the time duration when the rule takes effect.
 
 **Basic information**
 
