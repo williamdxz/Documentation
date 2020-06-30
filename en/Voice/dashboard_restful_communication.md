@@ -368,7 +368,7 @@ status 404
 
 ### Enables the primary App Certificate (POST)
 
-Enables the primary App Certificate for a specifed project.
+Enables the primary App Certificate for a specified project.
 
 **Basic information**
 
