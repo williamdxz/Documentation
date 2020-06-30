@@ -686,7 +686,7 @@ https://api.agora.io/dev/v1/kicking-rule?appid=4855xxxxxxxxxxxxxxxxxxxxxxxxeae2
 | Parameter | Description |
 | ---------------- | ---------------- |
 | `status`      | The status of this request.      |
-| `rules`        | The list of the kicking rule, which contains the following fields: <ul><li>`id`: The rule ID.</li><li>`appid`: The project App ID in Console.</li><li>`uid`: The user ID.</li><li>`opid`: The operation ID, which can be used to track operation records when teoubleshooting.</li><li>`cname`: The channel name.</li><li>`ip`: The IP address.</li><li>`ts`: The timestamp when this rule stops taking effect.</li><li>`createAt`: The timestamp when this rule is created.</li><li>`updateAt`: The timestamp when this rule is updated.</li></ul> |
+| `rules`        | The list of the kicking rule, which contains the following fields: <ul><li>`id`: The rule ID.</li><li>`appid`: The project App ID in Console.</li><li>`uid`: The user ID.</li><li>`opid`: The operation ID, which can be used to track operation records when troubleshooting.</li><li>`cname`: The channel name.</li><li>`ip`: The IP address.</li><li>`ts`: The timestamp when this rule stops taking effect.</li><li>`createAt`: The timestamp when this rule is created.</li><li>`updateAt`: The timestamp when this rule is updated.</li></ul> |
 
 **Response sample**
 
