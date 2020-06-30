@@ -487,7 +487,7 @@ The following chart shows how you can use Usage APIs.
 	"from_date"=2015-01-01&to_date=2015-03-21&projects=id1,id2
 	```
 
-<div class="alert note"><li>It is optional to specify projects. If it is not specified, the usage is queried on all projects of this account.<li>You can query usage data within one year. Agora recommends not including the current day in your query period, because the data is continueously changing on that day.</li></div>
+<div class="alert note"><li>It is optional to specify projects. If it is not specified, the usage is queried on all projects of this account.<li>You can query usage data within one year. Agora recommends not including the current day in your query period, because the data is continuously changing on that day.</li></div>
 
 -  Response:
 
