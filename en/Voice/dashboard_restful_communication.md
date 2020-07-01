@@ -897,7 +897,7 @@ BaseUrl/v1/channel/user/{appid}/{channelName}
 
 The response of this method differs with the channel profile:
 
-- In the Communicatio profile, the response is as follows:
+- In the Communication profile, the response is as follows:
 
 | Parameter | Description |
 | ---------------- | ---------------- |
