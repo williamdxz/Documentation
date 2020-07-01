@@ -182,7 +182,7 @@ https://api.agora.io/dev/v1/project?id=xxxx&name=project1
 | `name` | The project name. |
 | `vendor_key` | The App ID of the project. |
 | `sign_key` | The primary App Certificate of the project. |
-| `recording_server` | The IP of the recording server. Pay attention to this field if you use the On-premise Recording SDK eariler than v1.9.0. |
+| `recording_server` | The IP of the recording server. Pay attention to this field if you use the On-premise Recording SDK earlier than v1.9.0. |
 | `status` | The status of the project: <ul><li>1: The project is enabled.</li><li>0: The project is disabled.</li></ul> |
 | `created` | The Unix timestamp (ms) for creating the project. |
 
