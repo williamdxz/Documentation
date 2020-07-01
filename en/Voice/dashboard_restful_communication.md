@@ -221,7 +221,7 @@ Disables/Enables a specified Agora project.
 
 | Parameter | Description |
 | ---------------- | ---------------- |
-| `id`      | The projec ID.      |
+| `id`      | The project ID.      |
 | `status` | Determines whether you want to enable or disable the project: <ul><li>0: Enable the project.</li><li>1: Disable the project.</li></ul> |
 
 **Request sample**
